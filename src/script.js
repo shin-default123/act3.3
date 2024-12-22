@@ -1,6 +1,6 @@
 import * as THREE from "three";
 import * as dat from "lil-gui";
-import { OrbitControls } from "three/examples/js/controls/OrbitControls.js";
+import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
 /**
  * Debug
